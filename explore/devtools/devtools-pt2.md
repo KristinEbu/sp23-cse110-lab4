@@ -1,0 +1,2 @@
+1. The bug was that `result` was concatenating the strings of `num1` and `num2` instead of adding them as integers.
+2. I would fix it by turning `num1` and `num2` from strings to integers before they're added together in result.
